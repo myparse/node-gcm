@@ -1,7 +1,7 @@
 {
   "name": "@parse/node-gcm",
   "description": "Easy interface for Google's Cloud Messaging service (now Firebase Cloud Messaging)",
-  "version": "0.14.11",
+  "version": "0.14.12",
   "author": "Marcus Farkas <toothlessgear@finitebox.com>",
   "contributors": [
     "Marcus Farkas <toothlessgear@finitebox.com>",
@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.5",
     "request": "2.85.0"
   },
   "devDependencies": {
